@@ -1,0 +1,1667 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+		5036836DDB506A354789C918 = {
+			isa = PBXBuildFile;
+			fileRef = 766F1AB0CE6A15198D2C7820;
+		};
+		B89AD6B482D178C3523D1BE6 = {
+			isa = PBXBuildFile;
+			fileRef = 7B999A2394100998CE636633;
+		};
+		8D22979AA5149313F3FC2FAF = {
+			isa = PBXBuildFile;
+			fileRef = 0A9029BB6C6780FB512A97EF;
+		};
+		CB27B03F9C92631F184A1A4A = {
+			isa = PBXBuildFile;
+			fileRef = DF05FB43610C2268D7D5E9B9;
+		};
+		3709D72AA582AFCDD12B5812 = {
+			isa = PBXBuildFile;
+			fileRef = 585B2FD33015E80062570CE2;
+		};
+		DF89CA34FC88216FB8CDE764 = {
+			isa = PBXBuildFile;
+			fileRef = 1B416D7F0B4A8358AAAC85DA;
+		};
+		98CAFF97A580C5AC4E7B520E = {
+			isa = PBXBuildFile;
+			fileRef = 9797EA8A870A2275BFFA87E2;
+		};
+		507ADFF86EB8E58F1367A9C5 = {
+			isa = PBXBuildFile;
+			fileRef = D383EA8806021E54699C3E36;
+		};
+		74F5B918D959C2295A4C53B3 = {
+			isa = PBXBuildFile;
+			fileRef = 6867857BEFB0988CC281FD47;
+		};
+		25543A693E802503577EB0B7 = {
+			isa = PBXBuildFile;
+			fileRef = 4607A89C724BCBFC7107E358;
+		};
+		53DBB73823D80A7B9902DA39 = {
+			isa = PBXBuildFile;
+			fileRef = F66F65D677DCCA4D9C21F406;
+		};
+		C5755867943E2309B06498F0 = {
+			isa = PBXBuildFile;
+			fileRef = 59A1D282A59890CBC8D70AF3;
+		};
+		C2F18593547B00721CA4166D = {
+			isa = PBXBuildFile;
+			fileRef = ED38E0872951ABEBB6D26F0A;
+		};
+		6DAC62AB8D777F7832D38E29 = {
+			isa = PBXBuildFile;
+			fileRef = 27CD46E514356B2BA460235D;
+		};
+		B6280B88B421A839EB941D4E = {
+			isa = PBXBuildFile;
+			fileRef = 6A54CDC541152A0ED83DD984;
+		};
+		7BC88F8F8FE8E9CD85468106 = {
+			isa = PBXBuildFile;
+			fileRef = 85F0041F1A74B58C9FE418B3;
+		};
+		B9D4A5AD2063459DA5DE45AE = {
+			isa = PBXBuildFile;
+			fileRef = 4A26401E546C04BF5AFBCFBF;
+		};
+		1D8DD849B1994589600EDD2F = {
+			isa = PBXBuildFile;
+			fileRef = F280D52453BA92B92E393114;
+		};
+		B8240CC80FE2EDC78387DDE5 = {
+			isa = PBXBuildFile;
+			fileRef = 06FEFAE6968A6B3CE6056912;
+		};
+		3F6B21EE78A22EB556B5664C = {
+			isa = PBXBuildFile;
+			fileRef = D1F5A8097F5615AE6D604597;
+		};
+		2C9750E65701F0F308500448 = {
+			isa = PBXBuildFile;
+			fileRef = 5799DBE6189AFF691BF962CA;
+		};
+		9CE803E8B9E80FCBEE02E4E7 = {
+			isa = PBXBuildFile;
+			fileRef = A9DDE83FA2B416175D07A880;
+		};
+		B9438ADD48531B5FECECBA87 = {
+			isa = PBXBuildFile;
+			fileRef = 200646AA4CB563F110CF3106;
+		};
+		6953A511EDED8F0AB6DBA416 = {
+			isa = PBXBuildFile;
+			fileRef = 995DE7FD3E6F1EA06CCE79E2;
+		};
+		A829C01EEBBB35912D90D6C0 = {
+			isa = PBXBuildFile;
+			fileRef = E1DF5030F7707A353C1898E0;
+		};
+		ED50533F5B8A2901F2AB1796 = {
+			isa = PBXBuildFile;
+			fileRef = 85396D8968098B67AAA9FB84;
+		};
+		DD443655B6368F21D797BE45 = {
+			isa = PBXBuildFile;
+			fileRef = 83F1C387C53A5A3AB4A552CF;
+		};
+		C870BD544B6430329EAFC972 = {
+			isa = PBXBuildFile;
+			fileRef = F48189182BF99535982499F5;
+		};
+		7ABB448C6A6B81022B483579 = {
+			isa = PBXBuildFile;
+			fileRef = 9F965605AC7ED698BA30C30F;
+		};
+		190C269269CBD038C91457ED = {
+			isa = PBXBuildFile;
+			fileRef = BDA152FB9D10FCB65142C3E0;
+		};
+		6AF927BF8CB50E7152C38A55 = {
+			isa = PBXBuildFile;
+			fileRef = 77B9422148982B3A616E0FCD;
+		};
+		93DA6D4065E169445E6749F9 = {
+			isa = PBXBuildFile;
+			fileRef = F155BF9B8EDFBBF9D7D93345;
+		};
+		DD5FFBF62377F134BD150C7E = {
+			isa = PBXBuildFile;
+			fileRef = 4443261AD8A2035F76695551;
+		};
+		EFE894D40A425C47EA4193A3 = {
+			isa = PBXBuildFile;
+			fileRef = DC8212800C5FA10336171988;
+		};
+		C17411A9122E8DA6C6957811 = {
+			isa = PBXBuildFile;
+			fileRef = 36114DB44DB24838E034CE4D;
+		};
+		8B0EDDD779D2455BF7A4AD3C = {
+			isa = PBXBuildFile;
+			fileRef = DFAB84AF24B27EDC9EC47C60;
+		};
+		4FB90A820337826612026015 = {
+			isa = PBXBuildFile;
+			fileRef = A294AA949E7F552955D0933D;
+		};
+		9F216CCD7504AFF2EC9F0A70 = {
+			isa = PBXBuildFile;
+			fileRef = BDE3D56854D651096E482104;
+		};
+		3721F4A9ADBC722DA271DDC9 = {
+			isa = PBXBuildFile;
+			fileRef = 52FFB7CBA647972BE77057F7;
+		};
+		60D0B6D1AF4254B28B69E067 = {
+			isa = PBXBuildFile;
+			fileRef = 8A742B7F63857D06890EDDC5;
+		};
+		DAC79F06B99A52CA9B7B0C66 = {
+			isa = PBXBuildFile;
+			fileRef = E61378220D691838C3A0C117;
+		};
+		D2B739546FC68C0746F9932A = {
+			isa = PBXBuildFile;
+			fileRef = AEA596ED465BAA50849D1021;
+		};
+		EAE60DDC827A04AB8DF99A25 = {
+			isa = PBXBuildFile;
+			fileRef = 69FFF2EF69B43B907D6780AC;
+		};
+		0C2F089FF89E0447429E144A = {
+			isa = PBXBuildFile;
+			fileRef = 00DA612363CC641140A86983;
+		};
+		19C56A86DC547C75D1DA22C3 = {
+			isa = PBXBuildFile;
+			fileRef = 785F4D01CA605F641D1F8076;
+		};
+		F70859EF37E235877240804C = {
+			isa = PBXBuildFile;
+			fileRef = EA54A48BAB878CAE284C3371;
+		};
+		00DA612363CC641140A86983 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_gui_basics.mm";
+			path = "../../JuceLibraryCode/include_juce_gui_basics.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		0141751B5BF8F8262110F26B = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = AppConfig.h;
+			path = ../../JuceLibraryCode/AppConfig.h;
+			sourceTree = "SOURCE_ROOT";
+		};
+		06FEFAE6968A6B3CE6056912 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = PluginProcessor.cpp;
+			path = ../../Source/PluginProcessor.cpp;
+			sourceTree = "SOURCE_ROOT";
+		};
+		07942590BF188C80C37F2CFB = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.xml;
+			name = "Info-Standalone_Plugin.plist";
+			path = "Info-Standalone_Plugin.plist";
+			sourceTree = "SOURCE_ROOT";
+		};
+		1D0D1992DC24CCFA899706E0 = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_graphics";
+			path = "/Users/ellisd-b/Documents/JUCE/modules/juce_graphics";
+			sourceTree = "<absolute>";
+		};
+		1E0C2D3E0D83E0C5FEF28D54 = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_core";
+			path = "/Users/ellisd-b/Documents/JUCE/modules/juce_core";
+			sourceTree = "<absolute>";
+		};
+		200646AA4CB563F110CF3106 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = DelayLine.cpp;
+			path = "../../../../../../../../Users/ellisd-b/Downloads/VSTPlugins-master/MoorerReverbStereo/Source/DelayLine.cpp";
+			sourceTree = "SOURCE_ROOT";
+		};
+		20F0F086088BF1F8A383CCA3 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = OtherLookAndFeel.h;
+			path = "../../../../../../../../Users/ellisd-b/Documents/ObliqueReverb/Source/OtherLookAndFeel.h";
+			sourceTree = "SOURCE_ROOT";
+		};
+		31EE4862EE24C1B9AF2BF1C2 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = LowPass.h;
+			path = "../../../../../../../../Users/ellisd-b/Downloads/VSTPlugins-master/MoorerReverbStereo/Source/LowPass.h";
+			sourceTree = "SOURCE_ROOT";
+		};
+		766F1AB0CE6A15198D2C7820 = {
+			isa = PBXFileReference;
+			explicitFileType = wrapper.cfbundle;
+			includeInIndex = 0;
+			path = ObliqueReverb.vst3;
+			sourceTree = "BUILT_PRODUCTS_DIR";
+		};
+		7B999A2394100998CE636633 = {
+			isa = PBXFileReference;
+			explicitFileType = wrapper.cfbundle;
+			includeInIndex = 0;
+			path = ObliqueReverb.component;
+			sourceTree = "BUILT_PRODUCTS_DIR";
+		};
+		0A9029BB6C6780FB512A97EF = {
+			isa = PBXFileReference;
+			explicitFileType = wrapper.application;
+			includeInIndex = 0;
+			path = ObliqueReverb.app;
+			sourceTree = "BUILT_PRODUCTS_DIR";
+		};
+		1B416D7F0B4A8358AAAC85DA = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = Accelerate.framework;
+			path = System/Library/Frameworks/Accelerate.framework;
+			sourceTree = SDKROOT;
+		};
+		27CD46E514356B2BA460235D = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = IOKit.framework;
+			path = System/Library/Frameworks/IOKit.framework;
+			sourceTree = SDKROOT;
+		};
+		36114DB44DB24838E034CE4D = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_audio_plugin_client_VST_utils.mm";
+			path = "../../JuceLibraryCode/include_juce_audio_plugin_client_VST_utils.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		41E1A2DC7CFC182CA7AC615B = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_gui_basics";
+			path = "/Users/ellisd-b/Documents/JUCE/modules/juce_gui_basics";
+			sourceTree = "<absolute>";
+		};
+		4443261AD8A2035F76695551 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = "include_juce_audio_plugin_client_Standalone.cpp";
+			path = "../../JuceLibraryCode/include_juce_audio_plugin_client_Standalone.cpp";
+			sourceTree = "SOURCE_ROOT";
+		};
+		4607A89C724BCBFC7107E358 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = CoreAudio.framework;
+			path = System/Library/Frameworks/CoreAudio.framework;
+			sourceTree = SDKROOT;
+		};
+		4A26401E546C04BF5AFBCFBF = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = WebKit.framework;
+			path = System/Library/Frameworks/WebKit.framework;
+			sourceTree = SDKROOT;
+		};
+		4E57282137EAB81698B02E8F = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = PluginProcessor.h;
+			path = ../../Source/PluginProcessor.h;
+			sourceTree = "SOURCE_ROOT";
+		};
+		51CE5928A1B4A0767EC3F3D9 = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_gui_extra";
+			path = "/Users/ellisd-b/Documents/JUCE/modules/juce_gui_extra";
+			sourceTree = "<absolute>";
+		};
+		52FFB7CBA647972BE77057F7 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_core.mm";
+			path = "../../JuceLibraryCode/include_juce_core.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		5410AE47B2ED3EC8965054DF = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = Moorer.h;
+			path = "../../../../../../../../Users/ellisd-b/Downloads/VSTPlugins-master/MoorerReverbStereo/Source/Moorer.h";
+			sourceTree = "SOURCE_ROOT";
+		};
+		544D34607AE49667C746D0DB = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_audio_plugin_client";
+			path = "/Users/ellisd-b/Documents/JUCE/modules/juce_audio_plugin_client";
+			sourceTree = "<absolute>";
+		};
+		5799DBE6189AFF691BF962CA = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = AllPass.cpp;
+			path = "../../../../../../../../Users/ellisd-b/Downloads/VSTPlugins-master/MoorerReverbStereo/Source/AllPass.cpp";
+			sourceTree = "SOURCE_ROOT";
+		};
+		585B2FD33015E80062570CE2 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = AudioUnit.framework;
+			path = System/Library/Frameworks/AudioUnit.framework;
+			sourceTree = SDKROOT;
+		};
+		59A1D282A59890CBC8D70AF3 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = CoreMIDI.framework;
+			path = System/Library/Frameworks/CoreMIDI.framework;
+			sourceTree = SDKROOT;
+		};
+		59BDC2CA14538A7FDF0340A8 = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.xml;
+			name = "Info-VST3.plist";
+			path = "Info-VST3.plist";
+			sourceTree = "SOURCE_ROOT";
+		};
+		6867857BEFB0988CC281FD47 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = Cocoa.framework;
+			path = System/Library/Frameworks/Cocoa.framework;
+			sourceTree = SDKROOT;
+		};
+		69FFF2EF69B43B907D6780AC = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_graphics.mm";
+			path = "../../JuceLibraryCode/include_juce_graphics.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		6A54CDC541152A0ED83DD984 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = OpenGL.framework;
+			path = System/Library/Frameworks/OpenGL.framework;
+			sourceTree = SDKROOT;
+		};
+		6B86E558617575901562F686 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = Comb.h;
+			path = "../../../../../../../../Users/ellisd-b/Downloads/VSTPlugins-master/MoorerReverbStereo/Source/Comb.h";
+			sourceTree = "SOURCE_ROOT";
+		};
+		77B9422148982B3A616E0FCD = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_audio_plugin_client_AU_1.mm";
+			path = "../../JuceLibraryCode/include_juce_audio_plugin_client_AU_1.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		785F4D01CA605F641D1F8076 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_gui_extra.mm";
+			path = "../../JuceLibraryCode/include_juce_gui_extra.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		7D9796D7E2D3E5B19FD2D8F2 = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_audio_utils";
+			path = "/Users/ellisd-b/Documents/JUCE/modules/juce_audio_utils";
+			sourceTree = "<absolute>";
+		};
+		83F1C387C53A5A3AB4A552CF = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_audio_basics.mm";
+			path = "../../JuceLibraryCode/include_juce_audio_basics.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		85396D8968098B67AAA9FB84 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = Moorer.cpp;
+			path = "../../../../../../../../Users/ellisd-b/Downloads/VSTPlugins-master/MoorerReverbStereo/Source/Moorer.cpp";
+			sourceTree = "SOURCE_ROOT";
+		};
+		85F0041F1A74B58C9FE418B3 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = QuartzCore.framework;
+			path = System/Library/Frameworks/QuartzCore.framework;
+			sourceTree = SDKROOT;
+		};
+		87320C7757C02D9D592349D5 = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_audio_formats";
+			path = "/Users/ellisd-b/Documents/JUCE/modules/juce_audio_formats";
+			sourceTree = "<absolute>";
+		};
+		8A742B7F63857D06890EDDC5 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_cryptography.mm";
+			path = "../../JuceLibraryCode/include_juce_cryptography.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		9797EA8A870A2275BFFA87E2 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = AudioToolbox.framework;
+			path = System/Library/Frameworks/AudioToolbox.framework;
+			sourceTree = SDKROOT;
+		};
+		995DE7FD3E6F1EA06CCE79E2 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = ERTapDelayLine.cpp;
+			path = "../../../../../../../../Users/ellisd-b/Downloads/VSTPlugins-master/MoorerReverbStereo/Source/ERTapDelayLine.cpp";
+			sourceTree = "SOURCE_ROOT";
+		};
+		9F965605AC7ED698BA30C30F = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_audio_formats.mm";
+			path = "../../JuceLibraryCode/include_juce_audio_formats.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		A210742417473BCF0D02125B = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_cryptography";
+			path = "/Users/ellisd-b/Documents/JUCE/modules/juce_cryptography";
+			sourceTree = "<absolute>";
+		};
+		A294AA949E7F552955D0933D = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_audio_processors.mm";
+			path = "../../JuceLibraryCode/include_juce_audio_processors.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		A4A1A2621D9902C5A46EE6A3 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = PluginEditor.h;
+			path = ../../Source/PluginEditor.h;
+			sourceTree = "SOURCE_ROOT";
+		};
+		A9DDE83FA2B416175D07A880 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = Comb.cpp;
+			path = "../../../../../../../../Users/ellisd-b/Downloads/VSTPlugins-master/MoorerReverbStereo/Source/Comb.cpp";
+			sourceTree = "SOURCE_ROOT";
+		};
+		AD104F008369AEED78704D2A = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_audio_basics";
+			path = "/Users/ellisd-b/Documents/JUCE/modules/juce_audio_basics";
+			sourceTree = "<absolute>";
+		};
+		AEA596ED465BAA50849D1021 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_events.mm";
+			path = "../../JuceLibraryCode/include_juce_events.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		B08423F3F290D2A37975B08F = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = Prompts.h;
+			path = "../../../../../../../../Users/ellisd-b/Documents/ObliqueReverb/Source/Prompts.h";
+			sourceTree = "SOURCE_ROOT";
+		};
+		B639A7B99DDE65558A9D3575 = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_data_structures";
+			path = "/Users/ellisd-b/Documents/JUCE/modules/juce_data_structures";
+			sourceTree = "<absolute>";
+		};
+		B7A3A65D1FBC4D23C719CFEF = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_opengl";
+			path = "/Users/ellisd-b/Documents/JUCE/modules/juce_opengl";
+			sourceTree = "<absolute>";
+		};
+		BDA152FB9D10FCB65142C3E0 = {
+			isa = PBXFileReference;
+			lastKnownFileType = file.r;
+			name = "include_juce_audio_plugin_client_AU.r";
+			path = "../../JuceLibraryCode/include_juce_audio_plugin_client_AU.r";
+			sourceTree = "SOURCE_ROOT";
+		};
+		BDE3D56854D651096E482104 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_audio_utils.mm";
+			path = "../../JuceLibraryCode/include_juce_audio_utils.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		C2D327E3ADC7B6DD8FF385EA = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = AllPass.h;
+			path = "../../../../../../../../Users/ellisd-b/Downloads/VSTPlugins-master/MoorerReverbStereo/Source/AllPass.h";
+			sourceTree = "SOURCE_ROOT";
+		};
+		CAB5ED020FCFEFDDC3F49808 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = ERTapDelayLine.h;
+			path = "../../../../../../../../Users/ellisd-b/Downloads/VSTPlugins-master/MoorerReverbStereo/Source/ERTapDelayLine.h";
+			sourceTree = "SOURCE_ROOT";
+		};
+		CBED12F8A239324CD559563A = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = JuceHeader.h;
+			path = ../../JuceLibraryCode/JuceHeader.h;
+			sourceTree = "SOURCE_ROOT";
+		};
+		CF6CCC0CFE13BE7A8DE42651 = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.xml;
+			name = "Info-AU.plist";
+			path = "Info-AU.plist";
+			sourceTree = "SOURCE_ROOT";
+		};
+		D1F5A8097F5615AE6D604597 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = PluginEditor.cpp;
+			path = ../../Source/PluginEditor.cpp;
+			sourceTree = "SOURCE_ROOT";
+		};
+		D383EA8806021E54699C3E36 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = Carbon.framework;
+			path = System/Library/Frameworks/Carbon.framework;
+			sourceTree = SDKROOT;
+		};
+		DC8212800C5FA10336171988 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = "include_juce_audio_plugin_client_utils.cpp";
+			path = "../../JuceLibraryCode/include_juce_audio_plugin_client_utils.cpp";
+			sourceTree = "SOURCE_ROOT";
+		};
+		DF05FB43610C2268D7D5E9B9 = {
+			isa = PBXFileReference;
+			explicitFileType = archive.ar;
+			includeInIndex = 0;
+			path = libObliqueReverb.a;
+			sourceTree = "BUILT_PRODUCTS_DIR";
+		};
+		DFAB84AF24B27EDC9EC47C60 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = "include_juce_audio_plugin_client_VST3.cpp";
+			path = "../../JuceLibraryCode/include_juce_audio_plugin_client_VST3.cpp";
+			sourceTree = "SOURCE_ROOT";
+		};
+		E1DF5030F7707A353C1898E0 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = LowPass.cpp;
+			path = "../../../../../../../../Users/ellisd-b/Downloads/VSTPlugins-master/MoorerReverbStereo/Source/LowPass.cpp";
+			sourceTree = "SOURCE_ROOT";
+		};
+		E61378220D691838C3A0C117 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_data_structures.mm";
+			path = "../../JuceLibraryCode/include_juce_data_structures.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		EA54A48BAB878CAE284C3371 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_opengl.mm";
+			path = "../../JuceLibraryCode/include_juce_opengl.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		ED38E0872951ABEBB6D26F0A = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = DiscRecording.framework;
+			path = System/Library/Frameworks/DiscRecording.framework;
+			sourceTree = SDKROOT;
+		};
+		ED891C7318D1F47FE7E4F723 = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_audio_devices";
+			path = "/Users/ellisd-b/Documents/JUCE/modules/juce_audio_devices";
+			sourceTree = "<absolute>";
+		};
+		F00CD774C874698B95532B31 = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_events";
+			path = "/Users/ellisd-b/Documents/JUCE/modules/juce_events";
+			sourceTree = "<absolute>";
+		};
+		F155BF9B8EDFBBF9D7D93345 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_audio_plugin_client_AU_2.mm";
+			path = "../../JuceLibraryCode/include_juce_audio_plugin_client_AU_2.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		F280D52453BA92B92E393114 = {
+			isa = PBXFileReference;
+			lastKnownFileType = file.nib;
+			name = RecentFilesMenuTemplate.nib;
+			path = RecentFilesMenuTemplate.nib;
+			sourceTree = "SOURCE_ROOT";
+		};
+		F48189182BF99535982499F5 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_audio_devices.mm";
+			path = "../../JuceLibraryCode/include_juce_audio_devices.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		F66F65D677DCCA4D9C21F406 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = CoreAudioKit.framework;
+			path = System/Library/Frameworks/CoreAudioKit.framework;
+			sourceTree = SDKROOT;
+		};
+		F85F22A0AF0345D557E4CEF0 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = DelayLine.h;
+			path = "../../../../../../../../Users/ellisd-b/Downloads/VSTPlugins-master/MoorerReverbStereo/Source/DelayLine.h";
+			sourceTree = "SOURCE_ROOT";
+		};
+		FDE38B95701C4CF0A33A610E = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_audio_processors";
+			path = "/Users/ellisd-b/Documents/JUCE/modules/juce_audio_processors";
+			sourceTree = "<absolute>";
+		};
+		31B2F023BB0B0D5EA33EDD8D = {
+			isa = PBXGroup;
+			children = (
+				20F0F086088BF1F8A383CCA3,
+				06FEFAE6968A6B3CE6056912,
+				B08423F3F290D2A37975B08F,
+				4E57282137EAB81698B02E8F,
+				D1F5A8097F5615AE6D604597,
+				A4A1A2621D9902C5A46EE6A3,
+				5799DBE6189AFF691BF962CA,
+				C2D327E3ADC7B6DD8FF385EA,
+				A9DDE83FA2B416175D07A880,
+				6B86E558617575901562F686,
+				200646AA4CB563F110CF3106,
+				F85F22A0AF0345D557E4CEF0,
+				995DE7FD3E6F1EA06CCE79E2,
+				CAB5ED020FCFEFDDC3F49808,
+				E1DF5030F7707A353C1898E0,
+				31EE4862EE24C1B9AF2BF1C2,
+				85396D8968098B67AAA9FB84,
+				5410AE47B2ED3EC8965054DF,
+			);
+			name = Source;
+			sourceTree = "<group>";
+		};
+		BF77E0F5C6D344314B8D89E4 = {
+			isa = PBXGroup;
+			children = (
+				31B2F023BB0B0D5EA33EDD8D,
+			);
+			name = ObliqueReverb;
+			sourceTree = "<group>";
+		};
+		943A87E5ED8CDEDD30493BF7 = {
+			isa = PBXGroup;
+			children = (
+				AD104F008369AEED78704D2A,
+				ED891C7318D1F47FE7E4F723,
+				87320C7757C02D9D592349D5,
+				544D34607AE49667C746D0DB,
+				FDE38B95701C4CF0A33A610E,
+				7D9796D7E2D3E5B19FD2D8F2,
+				1E0C2D3E0D83E0C5FEF28D54,
+				A210742417473BCF0D02125B,
+				B639A7B99DDE65558A9D3575,
+				F00CD774C874698B95532B31,
+				1D0D1992DC24CCFA899706E0,
+				41E1A2DC7CFC182CA7AC615B,
+				51CE5928A1B4A0767EC3F3D9,
+				B7A3A65D1FBC4D23C719CFEF,
+			);
+			name = "JUCE Modules";
+			sourceTree = "<group>";
+		};
+		F7D66D7A16B4AE6BE6877E31 = {
+			isa = PBXGroup;
+			children = (
+				0141751B5BF8F8262110F26B,
+				83F1C387C53A5A3AB4A552CF,
+				F48189182BF99535982499F5,
+				9F965605AC7ED698BA30C30F,
+				BDA152FB9D10FCB65142C3E0,
+				77B9422148982B3A616E0FCD,
+				F155BF9B8EDFBBF9D7D93345,
+				4443261AD8A2035F76695551,
+				DC8212800C5FA10336171988,
+				36114DB44DB24838E034CE4D,
+				DFAB84AF24B27EDC9EC47C60,
+				A294AA949E7F552955D0933D,
+				BDE3D56854D651096E482104,
+				52FFB7CBA647972BE77057F7,
+				8A742B7F63857D06890EDDC5,
+				E61378220D691838C3A0C117,
+				AEA596ED465BAA50849D1021,
+				69FFF2EF69B43B907D6780AC,
+				00DA612363CC641140A86983,
+				785F4D01CA605F641D1F8076,
+				EA54A48BAB878CAE284C3371,
+				CBED12F8A239324CD559563A,
+			);
+			name = "JUCE Library Code";
+			sourceTree = "<group>";
+		};
+		36B30930A664F15EBB8B0E60 = {
+			isa = PBXGroup;
+			children = (
+				59BDC2CA14538A7FDF0340A8,
+				CF6CCC0CFE13BE7A8DE42651,
+				07942590BF188C80C37F2CFB,
+				F280D52453BA92B92E393114,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		80F6B5436C815598B9D80579 = {
+			isa = PBXGroup;
+			children = (
+				585B2FD33015E80062570CE2,
+				1B416D7F0B4A8358AAAC85DA,
+				9797EA8A870A2275BFFA87E2,
+				D383EA8806021E54699C3E36,
+				6867857BEFB0988CC281FD47,
+				4607A89C724BCBFC7107E358,
+				F66F65D677DCCA4D9C21F406,
+				59A1D282A59890CBC8D70AF3,
+				ED38E0872951ABEBB6D26F0A,
+				27CD46E514356B2BA460235D,
+				6A54CDC541152A0ED83DD984,
+				85F0041F1A74B58C9FE418B3,
+				4A26401E546C04BF5AFBCFBF,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		4D4135DCDC21F146B73481CF = {
+			isa = PBXGroup;
+			children = (
+				766F1AB0CE6A15198D2C7820,
+				7B999A2394100998CE636633,
+				0A9029BB6C6780FB512A97EF,
+				DF05FB43610C2268D7D5E9B9,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		957E70C7F5687075F9E9428D = {
+			isa = PBXGroup;
+			children = (
+				BF77E0F5C6D344314B8D89E4,
+				943A87E5ED8CDEDD30493BF7,
+				F7D66D7A16B4AE6BE6877E31,
+				36B30930A664F15EBB8B0E60,
+				80F6B5436C815598B9D80579,
+				4D4135DCDC21F146B73481CF,
+			);
+			name = Source;
+			sourceTree = "<group>";
+		};
+		7CC9B9B916DAA2D5DE674833 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		ECE3E356A8B07FE9E31FF6BA = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		F2A776C72DE5E021E21F6286 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "c++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_LINK_OBJC_RUNTIME = NO;
+				CODE_SIGN_IDENTITY = "";
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = "$(PROJECT_DIR)/build/$(CONFIGURATION)";
+				COPY_PHASE_STRIP = NO;
+				DEPLOYMENT_LOCATION = YES;
+				DSTROOT = /;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"_DEBUG=1",
+					"DEBUG=1",
+					"JUCER_XCODE_MAC_F6D2F4CF=1",
+					"JUCE_APP_VERSION=1.0.0",
+					"JUCE_APP_VERSION_HEX=0x10000",
+					"JucePlugin_Build_VST=0",
+					"JucePlugin_Build_VST3=1",
+					"JucePlugin_Build_AU=0",
+					"JucePlugin_Build_AUv3=0",
+					"JucePlugin_Build_RTAS=0",
+					"JucePlugin_Build_AAX=0",
+					"JucePlugin_Build_Standalone=0",
+					"JucePlugin_Build_Unity=0",
+				);
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GENERATE_PKGINFO_FILE = YES;
+				HEADER_SEARCH_PATHS = (
+					"/Users/ellisd-b/Documents/JUCE/modules/juce_audio_processors/format_types/VST3_SDK",
+					"../../JuceLibraryCode",
+					"/Users/ellisd-b/Documents/JUCE/modules",
+					"/Users/ellisd-b/Documents/JUCE/modules/juce_audio_plugin_client",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = Info-VST3.plist;
+				INFOPLIST_PREPROCESS = NO;
+				INSTALL_PATH = "$(HOME)/Library/Audio/Plug-Ins/VST3/";
+				LIBRARY_STYLE = Bundle;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				OTHER_LDFLAGS = "-bundle -lObliqueReverb";
+				PRODUCT_BUNDLE_IDENTIFIER = com.yourcompany.ObliqueReverb;
+				PRODUCT_NAME = "ObliqueReverb";
+				USE_HEADERMAP = NO;
+				WRAPPER_EXTENSION = vst3;
+			};
+			name = Debug;
+		};
+		0450DDB0C1B4BFAE3A5AF46F = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "c++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_LINK_OBJC_RUNTIME = NO;
+				CODE_SIGN_IDENTITY = "";
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = "$(PROJECT_DIR)/build/$(CONFIGURATION)";
+				DEAD_CODE_STRIPPING = YES;
+				DEPLOYMENT_LOCATION = YES;
+				DSTROOT = /;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				GCC_OPTIMIZATION_LEVEL = 3;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"_NDEBUG=1",
+					"NDEBUG=1",
+					"JUCER_XCODE_MAC_F6D2F4CF=1",
+					"JUCE_APP_VERSION=1.0.0",
+					"JUCE_APP_VERSION_HEX=0x10000",
+					"JucePlugin_Build_VST=0",
+					"JucePlugin_Build_VST3=1",
+					"JucePlugin_Build_AU=0",
+					"JucePlugin_Build_AUv3=0",
+					"JucePlugin_Build_RTAS=0",
+					"JucePlugin_Build_AAX=0",
+					"JucePlugin_Build_Standalone=0",
+					"JucePlugin_Build_Unity=0",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = YES;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GENERATE_PKGINFO_FILE = YES;
+				HEADER_SEARCH_PATHS = (
+					"/Users/ellisd-b/Documents/JUCE/modules/juce_audio_processors/format_types/VST3_SDK",
+					"../../JuceLibraryCode",
+					"/Users/ellisd-b/Documents/JUCE/modules",
+					"/Users/ellisd-b/Documents/JUCE/modules/juce_audio_plugin_client",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = Info-VST3.plist;
+				INFOPLIST_PREPROCESS = NO;
+				INSTALL_PATH = "$(HOME)/Library/Audio/Plug-Ins/VST3/";
+				LIBRARY_STYLE = Bundle;
+				LLVM_LTO = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				OTHER_LDFLAGS = "-bundle -lObliqueReverb";
+				PRODUCT_BUNDLE_IDENTIFIER = com.yourcompany.ObliqueReverb;
+				PRODUCT_NAME = "ObliqueReverb";
+				USE_HEADERMAP = NO;
+				WRAPPER_EXTENSION = vst3;
+			};
+			name = Release;
+		};
+		3024E253A65E2CA32A5110A8 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "c++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_LINK_OBJC_RUNTIME = NO;
+				CODE_SIGN_IDENTITY = "";
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = "$(PROJECT_DIR)/build/$(CONFIGURATION)";
+				COPY_PHASE_STRIP = NO;
+				DEPLOYMENT_LOCATION = YES;
+				DSTROOT = /;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"_DEBUG=1",
+					"DEBUG=1",
+					"JUCER_XCODE_MAC_F6D2F4CF=1",
+					"JUCE_APP_VERSION=1.0.0",
+					"JUCE_APP_VERSION_HEX=0x10000",
+					"JucePlugin_Build_VST=0",
+					"JucePlugin_Build_VST3=0",
+					"JucePlugin_Build_AU=1",
+					"JucePlugin_Build_AUv3=0",
+					"JucePlugin_Build_RTAS=0",
+					"JucePlugin_Build_AAX=0",
+					"JucePlugin_Build_Standalone=0",
+					"JucePlugin_Build_Unity=0",
+				);
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GENERATE_PKGINFO_FILE = YES;
+				HEADER_SEARCH_PATHS = (
+					"/Users/ellisd-b/Documents/JUCE/modules/juce_audio_processors/format_types/VST3_SDK",
+					"../../JuceLibraryCode",
+					"/Users/ellisd-b/Documents/JUCE/modules",
+					"/Users/ellisd-b/Documents/JUCE/modules/juce_audio_plugin_client",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = Info-AU.plist;
+				INFOPLIST_PREPROCESS = NO;
+				INSTALL_PATH = "$(HOME)/Library/Audio/Plug-Ins/Components/";
+				LIBRARY_STYLE = Bundle;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				OTHER_LDFLAGS = "-bundle -lObliqueReverb";
+				OTHER_REZFLAGS = "-d ppc_$ppc -d i386_$i386 -d ppc64_$ppc64 -d x86_64_$x86_64 -I /System/Library/Frameworks/CoreServices.framework/Frameworks/CarbonCore.framework/Versions/A/Headers -I \"$(DEVELOPER_DIR)/Extras/CoreAudio/AudioUnits/AUPublic/AUBase\" -I \"$(DEVELOPER_DIR)/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/AudioUnit.framework/Headers\"";
+				PRODUCT_BUNDLE_IDENTIFIER = com.yourcompany.ObliqueReverb;
+				PRODUCT_NAME = "ObliqueReverb";
+				USE_HEADERMAP = NO;
+				WRAPPER_EXTENSION = component;
+			};
+			name = Debug;
+		};
+		8D81CB75D5AA2114957CF68F = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "c++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_LINK_OBJC_RUNTIME = NO;
+				CODE_SIGN_IDENTITY = "";
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = "$(PROJECT_DIR)/build/$(CONFIGURATION)";
+				DEAD_CODE_STRIPPING = YES;
+				DEPLOYMENT_LOCATION = YES;
+				DSTROOT = /;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				GCC_OPTIMIZATION_LEVEL = 3;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"_NDEBUG=1",
+					"NDEBUG=1",
+					"JUCER_XCODE_MAC_F6D2F4CF=1",
+					"JUCE_APP_VERSION=1.0.0",
+					"JUCE_APP_VERSION_HEX=0x10000",
+					"JucePlugin_Build_VST=0",
+					"JucePlugin_Build_VST3=0",
+					"JucePlugin_Build_AU=1",
+					"JucePlugin_Build_AUv3=0",
+					"JucePlugin_Build_RTAS=0",
+					"JucePlugin_Build_AAX=0",
+					"JucePlugin_Build_Standalone=0",
+					"JucePlugin_Build_Unity=0",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = YES;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GENERATE_PKGINFO_FILE = YES;
+				HEADER_SEARCH_PATHS = (
+					"/Users/ellisd-b/Documents/JUCE/modules/juce_audio_processors/format_types/VST3_SDK",
+					"../../JuceLibraryCode",
+					"/Users/ellisd-b/Documents/JUCE/modules",
+					"/Users/ellisd-b/Documents/JUCE/modules/juce_audio_plugin_client",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = Info-AU.plist;
+				INFOPLIST_PREPROCESS = NO;
+				INSTALL_PATH = "$(HOME)/Library/Audio/Plug-Ins/Components/";
+				LIBRARY_STYLE = Bundle;
+				LLVM_LTO = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				OTHER_LDFLAGS = "-bundle -lObliqueReverb";
+				OTHER_REZFLAGS = "-d ppc_$ppc -d i386_$i386 -d ppc64_$ppc64 -d x86_64_$x86_64 -I /System/Library/Frameworks/CoreServices.framework/Frameworks/CarbonCore.framework/Versions/A/Headers -I \"$(DEVELOPER_DIR)/Extras/CoreAudio/AudioUnits/AUPublic/AUBase\" -I \"$(DEVELOPER_DIR)/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/AudioUnit.framework/Headers\"";
+				PRODUCT_BUNDLE_IDENTIFIER = com.yourcompany.ObliqueReverb;
+				PRODUCT_NAME = "ObliqueReverb";
+				USE_HEADERMAP = NO;
+				WRAPPER_EXTENSION = component;
+			};
+			name = Release;
+		};
+		476FACF1C83A2309C2BA4647 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "c++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_LINK_OBJC_RUNTIME = NO;
+				CODE_SIGN_IDENTITY = "";
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = "$(PROJECT_DIR)/build/$(CONFIGURATION)";
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"_DEBUG=1",
+					"DEBUG=1",
+					"JUCER_XCODE_MAC_F6D2F4CF=1",
+					"JUCE_APP_VERSION=1.0.0",
+					"JUCE_APP_VERSION_HEX=0x10000",
+					"JucePlugin_Build_VST=0",
+					"JucePlugin_Build_VST3=0",
+					"JucePlugin_Build_AU=0",
+					"JucePlugin_Build_AUv3=0",
+					"JucePlugin_Build_RTAS=0",
+					"JucePlugin_Build_AAX=0",
+					"JucePlugin_Build_Standalone=1",
+					"JucePlugin_Build_Unity=0",
+				);
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				HEADER_SEARCH_PATHS = (
+					"/Users/ellisd-b/Documents/JUCE/modules/juce_audio_processors/format_types/VST3_SDK",
+					"../../JuceLibraryCode",
+					"/Users/ellisd-b/Documents/JUCE/modules",
+					"/Users/ellisd-b/Documents/JUCE/modules/juce_audio_plugin_client",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = Info-Standalone_Plugin.plist;
+				INFOPLIST_PREPROCESS = NO;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				OTHER_LDFLAGS = "-lObliqueReverb";
+				PRODUCT_BUNDLE_IDENTIFIER = com.yourcompany.ObliqueReverb;
+				PRODUCT_NAME = "ObliqueReverb";
+				USE_HEADERMAP = NO;
+			};
+			name = Debug;
+		};
+		3B1992B0FA4572AD10E933BD = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "c++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_LINK_OBJC_RUNTIME = NO;
+				CODE_SIGN_IDENTITY = "";
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = "$(PROJECT_DIR)/build/$(CONFIGURATION)";
+				DEAD_CODE_STRIPPING = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				GCC_OPTIMIZATION_LEVEL = 3;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"_NDEBUG=1",
+					"NDEBUG=1",
+					"JUCER_XCODE_MAC_F6D2F4CF=1",
+					"JUCE_APP_VERSION=1.0.0",
+					"JUCE_APP_VERSION_HEX=0x10000",
+					"JucePlugin_Build_VST=0",
+					"JucePlugin_Build_VST3=0",
+					"JucePlugin_Build_AU=0",
+					"JucePlugin_Build_AUv3=0",
+					"JucePlugin_Build_RTAS=0",
+					"JucePlugin_Build_AAX=0",
+					"JucePlugin_Build_Standalone=1",
+					"JucePlugin_Build_Unity=0",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = YES;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				HEADER_SEARCH_PATHS = (
+					"/Users/ellisd-b/Documents/JUCE/modules/juce_audio_processors/format_types/VST3_SDK",
+					"../../JuceLibraryCode",
+					"/Users/ellisd-b/Documents/JUCE/modules",
+					"/Users/ellisd-b/Documents/JUCE/modules/juce_audio_plugin_client",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = Info-Standalone_Plugin.plist;
+				INFOPLIST_PREPROCESS = NO;
+				LLVM_LTO = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				OTHER_LDFLAGS = "-lObliqueReverb";
+				PRODUCT_BUNDLE_IDENTIFIER = com.yourcompany.ObliqueReverb;
+				PRODUCT_NAME = "ObliqueReverb";
+				USE_HEADERMAP = NO;
+			};
+			name = Release;
+		};
+		7AF02A8F58E7E4A1AE900F80 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "c++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_LINK_OBJC_RUNTIME = NO;
+				CODE_SIGN_IDENTITY = "";
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = "$(PROJECT_DIR)/build/$(CONFIGURATION)";
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"_DEBUG=1",
+					"DEBUG=1",
+					"JUCER_XCODE_MAC_F6D2F4CF=1",
+					"JUCE_APP_VERSION=1.0.0",
+					"JUCE_APP_VERSION_HEX=0x10000",
+					"JucePlugin_Build_VST=0",
+					"JucePlugin_Build_VST3=1",
+					"JucePlugin_Build_AU=1",
+					"JucePlugin_Build_AUv3=0",
+					"JucePlugin_Build_RTAS=0",
+					"JucePlugin_Build_AAX=0",
+					"JucePlugin_Build_Standalone=1",
+					"JucePlugin_Build_Unity=0",
+					"JUCE_SHARED_CODE=1",
+				);
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				HEADER_SEARCH_PATHS = (
+					"/Users/ellisd-b/Documents/JUCE/modules/juce_audio_processors/format_types/VST3_SDK",
+					"../../JuceLibraryCode",
+					"/Users/ellisd-b/Documents/JUCE/modules",
+					"/Users/ellisd-b/Documents/JUCE/modules/juce_audio_plugin_client",
+					"$(inherited)",
+				);
+				INSTALL_PATH = "@executable_path/../Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				PRODUCT_BUNDLE_IDENTIFIER = com.yourcompany.ObliqueReverb;
+				PRODUCT_NAME = "ObliqueReverb";
+				SKIP_INSTALL = YES;
+				USE_HEADERMAP = NO;
+			};
+			name = Debug;
+		};
+		AB0731A724473949295E5C06 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "c++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_LINK_OBJC_RUNTIME = NO;
+				CODE_SIGN_IDENTITY = "";
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = "$(PROJECT_DIR)/build/$(CONFIGURATION)";
+				DEAD_CODE_STRIPPING = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				GCC_OPTIMIZATION_LEVEL = 3;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"_NDEBUG=1",
+					"NDEBUG=1",
+					"JUCER_XCODE_MAC_F6D2F4CF=1",
+					"JUCE_APP_VERSION=1.0.0",
+					"JUCE_APP_VERSION_HEX=0x10000",
+					"JucePlugin_Build_VST=0",
+					"JucePlugin_Build_VST3=1",
+					"JucePlugin_Build_AU=1",
+					"JucePlugin_Build_AUv3=0",
+					"JucePlugin_Build_RTAS=0",
+					"JucePlugin_Build_AAX=0",
+					"JucePlugin_Build_Standalone=1",
+					"JucePlugin_Build_Unity=0",
+					"JUCE_SHARED_CODE=1",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = YES;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				HEADER_SEARCH_PATHS = (
+					"/Users/ellisd-b/Documents/JUCE/modules/juce_audio_processors/format_types/VST3_SDK",
+					"../../JuceLibraryCode",
+					"/Users/ellisd-b/Documents/JUCE/modules",
+					"/Users/ellisd-b/Documents/JUCE/modules/juce_audio_plugin_client",
+					"$(inherited)",
+				);
+				INSTALL_PATH = "@executable_path/../Frameworks";
+				LLVM_LTO = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				PRODUCT_BUNDLE_IDENTIFIER = com.yourcompany.ObliqueReverb;
+				PRODUCT_NAME = "ObliqueReverb";
+				SKIP_INSTALL = YES;
+				USE_HEADERMAP = NO;
+			};
+			name = Release;
+		};
+		C4809F8F61135C0E6E7F6F6C = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "";
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = c11;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_CHECK_SWITCH_STATEMENTS = YES;
+				GCC_WARN_MISSING_PARENTHESES = YES;
+				GCC_WARN_NON_VIRTUAL_DESTRUCTOR = YES;
+				GCC_WARN_TYPECHECK_CALLS_TO_PRINTF = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "ObliqueReverb";
+				SDKROOT = macosx;
+				WARNING_CFLAGS = "-Wreorder";
+				ZERO_LINK = NO;
+			};
+			name = Debug;
+		};
+		DF53DD3ECAC4B50C59A2E685 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "";
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = c11;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_CHECK_SWITCH_STATEMENTS = YES;
+				GCC_WARN_MISSING_PARENTHESES = YES;
+				GCC_WARN_NON_VIRTUAL_DESTRUCTOR = YES;
+				GCC_WARN_TYPECHECK_CALLS_TO_PRINTF = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PRODUCT_NAME = "ObliqueReverb";
+				SDKROOT = macosx;
+				WARNING_CFLAGS = "-Wreorder";
+				ZERO_LINK = NO;
+			};
+			name = Release;
+		};
+		CE6B034B7E8BDFBF30039ECA = {
+			isa = PBXTargetDependency;
+			target = 563BC2340C5BC003821AD6D6;
+		};
+		F17B1FF87946FEFAE291C5E2 = {
+			isa = PBXTargetDependency;
+			target = 46F056187B59A8CBC0E5B662;
+		};
+		411200D315EA5626045D3765 = {
+			isa = PBXTargetDependency;
+			target = EBB94F5061FB9BE269485751;
+		};
+		26480A045C8381C39C7C4607 = {
+			isa = PBXTargetDependency;
+			target = 5B6B3DBB7A743871A6C78368;
+		};
+		59E49A8A2D036A587C2173B7 = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C4809F8F61135C0E6E7F6F6C,
+				DF53DD3ECAC4B50C59A2E685,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		0F3462E0B6AC34663BD6F2F4 = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7CC9B9B916DAA2D5DE674833,
+				ECE3E356A8B07FE9E31FF6BA,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		B2B458E6B786E3EE6E1416AC = {
+			isa = PBXAggregateTarget;
+			buildConfigurationList = 0F3462E0B6AC34663BD6F2F4;
+			buildPhases = ( );
+			buildRules = ( );
+			dependencies = (
+				CE6B034B7E8BDFBF30039ECA,
+				F17B1FF87946FEFAE291C5E2,
+				411200D315EA5626045D3765,
+				26480A045C8381C39C7C4607,
+			);
+			name = "ObliqueReverb - All";
+			productName = ObliqueReverb;
+		};
+		9F31BF21792291A6979E3D37 = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F2A776C72DE5E021E21F6286,
+				0450DDB0C1B4BFAE3A5AF46F,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		95D514AE755B42508436CB28 = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D8DD849B1994589600EDD2F,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		94BA2AC189777D871D610C54 = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8B0EDDD779D2455BF7A4AD3C,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9C2EDFAD6A5E9038ECDAA399 = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DF89CA34FC88216FB8CDE764,
+				98CAFF97A580C5AC4E7B520E,
+				507ADFF86EB8E58F1367A9C5,
+				74F5B918D959C2295A4C53B3,
+				25543A693E802503577EB0B7,
+				53DBB73823D80A7B9902DA39,
+				C5755867943E2309B06498F0,
+				C2F18593547B00721CA4166D,
+				6DAC62AB8D777F7832D38E29,
+				B6280B88B421A839EB941D4E,
+				7BC88F8F8FE8E9CD85468106,
+				B9D4A5AD2063459DA5DE45AE,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		563BC2340C5BC003821AD6D6 = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9F31BF21792291A6979E3D37;
+			buildPhases = (
+				95D514AE755B42508436CB28,
+				94BA2AC189777D871D610C54,
+				9C2EDFAD6A5E9038ECDAA399,
+			);
+			buildRules = ( );
+			dependencies = (
+				26480A045C8381C39C7C4607,
+			);
+			name = "ObliqueReverb - VST3";
+			productName = ObliqueReverb;
+			productReference = 766F1AB0CE6A15198D2C7820;
+			productType = "com.apple.product-type.bundle";
+		};
+		9A0D20A22ED2E5621A647328 = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3024E253A65E2CA32A5110A8,
+				8D81CB75D5AA2114957CF68F,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		0121816E70B824E74D887940 = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D8DD849B1994589600EDD2F,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9AC01D61DE8C97C19B206959 = {
+			isa = PBXRezBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				190C269269CBD038C91457ED,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8090F70D5FDE974FCBAD313C = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6AF927BF8CB50E7152C38A55,
+				93DA6D4065E169445E6749F9,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		297B8E7AA9E4CFC62BDAC911 = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3709D72AA582AFCDD12B5812,
+				DF89CA34FC88216FB8CDE764,
+				98CAFF97A580C5AC4E7B520E,
+				507ADFF86EB8E58F1367A9C5,
+				74F5B918D959C2295A4C53B3,
+				25543A693E802503577EB0B7,
+				53DBB73823D80A7B9902DA39,
+				C5755867943E2309B06498F0,
+				C2F18593547B00721CA4166D,
+				6DAC62AB8D777F7832D38E29,
+				B6280B88B421A839EB941D4E,
+				7BC88F8F8FE8E9CD85468106,
+				B9D4A5AD2063459DA5DE45AE,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		46F056187B59A8CBC0E5B662 = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9A0D20A22ED2E5621A647328;
+			buildPhases = (
+				0121816E70B824E74D887940,
+				9AC01D61DE8C97C19B206959,
+				8090F70D5FDE974FCBAD313C,
+				297B8E7AA9E4CFC62BDAC911,
+			);
+			buildRules = ( );
+			dependencies = (
+				26480A045C8381C39C7C4607,
+			);
+			name = "ObliqueReverb - AU";
+			productName = ObliqueReverb;
+			productReference = 7B999A2394100998CE636633;
+			productType = "com.apple.product-type.bundle";
+		};
+		7FD68DCF6972359E0F31C88D = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				476FACF1C83A2309C2BA4647,
+				3B1992B0FA4572AD10E933BD,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		7C40D7F385F4AC9B208D178F = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D8DD849B1994589600EDD2F,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5CD3E3D035EF0A60C9B61273 = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DD5FFBF62377F134BD150C7E,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		952702A9657F68FDD34C9B6F = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DF89CA34FC88216FB8CDE764,
+				98CAFF97A580C5AC4E7B520E,
+				507ADFF86EB8E58F1367A9C5,
+				74F5B918D959C2295A4C53B3,
+				25543A693E802503577EB0B7,
+				53DBB73823D80A7B9902DA39,
+				C5755867943E2309B06498F0,
+				C2F18593547B00721CA4166D,
+				6DAC62AB8D777F7832D38E29,
+				B6280B88B421A839EB941D4E,
+				7BC88F8F8FE8E9CD85468106,
+				B9D4A5AD2063459DA5DE45AE,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EBB94F5061FB9BE269485751 = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7FD68DCF6972359E0F31C88D;
+			buildPhases = (
+				7C40D7F385F4AC9B208D178F,
+				5CD3E3D035EF0A60C9B61273,
+				952702A9657F68FDD34C9B6F,
+			);
+			buildRules = ( );
+			dependencies = (
+				26480A045C8381C39C7C4607,
+			);
+			name = "ObliqueReverb - Standalone Plugin";
+			productName = ObliqueReverb;
+			productReference = 0A9029BB6C6780FB512A97EF;
+			productType = "com.apple.product-type.application";
+		};
+		191A5C1938E5E9123E9FDAA8 = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7AF02A8F58E7E4A1AE900F80,
+				AB0731A724473949295E5C06,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		62CC7FE26A666097FCCE9EFB = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B8240CC80FE2EDC78387DDE5,
+				3F6B21EE78A22EB556B5664C,
+				2C9750E65701F0F308500448,
+				9CE803E8B9E80FCBEE02E4E7,
+				B9438ADD48531B5FECECBA87,
+				6953A511EDED8F0AB6DBA416,
+				A829C01EEBBB35912D90D6C0,
+				ED50533F5B8A2901F2AB1796,
+				DD443655B6368F21D797BE45,
+				C870BD544B6430329EAFC972,
+				7ABB448C6A6B81022B483579,
+				EFE894D40A425C47EA4193A3,
+				C17411A9122E8DA6C6957811,
+				4FB90A820337826612026015,
+				9F216CCD7504AFF2EC9F0A70,
+				3721F4A9ADBC722DA271DDC9,
+				60D0B6D1AF4254B28B69E067,
+				DAC79F06B99A52CA9B7B0C66,
+				D2B739546FC68C0746F9932A,
+				EAE60DDC827A04AB8DF99A25,
+				0C2F089FF89E0447429E144A,
+				19C56A86DC547C75D1DA22C3,
+				F70859EF37E235877240804C,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5B6B3DBB7A743871A6C78368 = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 191A5C1938E5E9123E9FDAA8;
+			buildPhases = (
+				62CC7FE26A666097FCCE9EFB,
+			);
+			buildRules = ( );
+			dependencies = ( );
+			name = "ObliqueReverb - Shared Code";
+			productName = ObliqueReverb;
+			productReference = DF05FB43610C2268D7D5E9B9;
+			productType = "com.apple.product-type.library.static";
+		};
+		1254CA0E6E04F370805E981F = {
+			isa = PBXProject;
+			buildConfigurationList = 59E49A8A2D036A587C2173B7;
+			attributes = { LastUpgradeCheck = 1100; ORGANIZATIONNAME = ""; TargetAttributes = { B2B458E6B786E3EE6E1416AC = { SystemCapabilities = {com.apple.ApplicationGroups.iOS = { enabled = 0; }; com.apple.InAppPurchase = { enabled = 0; }; com.apple.InterAppAudio = { enabled = 0; }; com.apple.Push = { enabled = 0; }; com.apple.Sandbox = { enabled = 0; }; com.apple.HardenedRuntime = { enabled = 0; }; }; };563BC2340C5BC003821AD6D6 = { SystemCapabilities = {com.apple.ApplicationGroups.iOS = { enabled = 0; }; com.apple.InAppPurchase = { enabled = 0; }; com.apple.InterAppAudio = { enabled = 0; }; com.apple.Push = { enabled = 0; }; com.apple.Sandbox = { enabled = 0; }; com.apple.HardenedRuntime = { enabled = 0; }; }; };46F056187B59A8CBC0E5B662 = { SystemCapabilities = {com.apple.ApplicationGroups.iOS = { enabled = 0; }; com.apple.InAppPurchase = { enabled = 0; }; com.apple.InterAppAudio = { enabled = 0; }; com.apple.Push = { enabled = 0; }; com.apple.Sandbox = { enabled = 0; }; com.apple.HardenedRuntime = { enabled = 0; }; }; };EBB94F5061FB9BE269485751 = { SystemCapabilities = {com.apple.ApplicationGroups.iOS = { enabled = 0; }; com.apple.InAppPurchase = { enabled = 0; }; com.apple.InterAppAudio = { enabled = 0; }; com.apple.Push = { enabled = 0; }; com.apple.Sandbox = { enabled = 0; }; com.apple.HardenedRuntime = { enabled = 0; }; }; };5B6B3DBB7A743871A6C78368 = { SystemCapabilities = {com.apple.ApplicationGroups.iOS = { enabled = 0; }; com.apple.InAppPurchase = { enabled = 0; }; com.apple.InterAppAudio = { enabled = 0; }; com.apple.Push = { enabled = 0; }; com.apple.Sandbox = { enabled = 0; }; com.apple.HardenedRuntime = { enabled = 0; }; }; }; }; };
+			compatibilityVersion = "Xcode 3.2";
+			hasScannedForEncodings = 0;
+			mainGroup = 957E70C7F5687075F9E9428D;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (B2B458E6B786E3EE6E1416AC, 563BC2340C5BC003821AD6D6, 46F056187B59A8CBC0E5B662, EBB94F5061FB9BE269485751, 5B6B3DBB7A743871A6C78368);
+			knownRegions = (en, Base);
+		};
+	};
+	rootObject = 1254CA0E6E04F370805E981F;
+}

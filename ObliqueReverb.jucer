@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<JUCERPROJECT id="DWsl18" name="ObliqueReverb" projectType="audioplug" jucerVersion="5.4.7">
+  <MAINGROUP id="FEfXHZ" name="ObliqueReverb">
+    <GROUP id="{E7CA31BF-FFAA-C449-8063-AAF13D1791A1}" name="Source">
+      <FILE id="Dw3kiY" name="OtherLookAndFeel.h" compile="0" resource="0"
+            file="/Users/ellisd-b/Documents/ObliqueReverb/Source/OtherLookAndFeel.h"/>
+      <FILE id="FsYM54" name="PluginProcessor.cpp" compile="1" resource="0"
+            file="Source/PluginProcessor.cpp"/>
+      <FILE id="BgWzGG" name="Prompts.h" compile="0" resource="0" file="/Users/ellisd-b/Documents/ObliqueReverb/Source/Prompts.h"/>
+      <FILE id="gXBpGC" name="PluginProcessor.h" compile="0" resource="0"
+            file="Source/PluginProcessor.h"/>
+      <FILE id="k4VJho" name="PluginEditor.cpp" compile="1" resource="0"
+            file="Source/PluginEditor.cpp"/>
+      <FILE id="OnfeEs" name="PluginEditor.h" compile="0" resource="0" file="Source/PluginEditor.h"/>
+      <FILE id="O2CPbu" name="AllPass.cpp" compile="1" resource="0" file="/Users/ellisd-b/Downloads/VSTPlugins-master/MoorerReverbStereo/Source/AllPass.cpp"/>
+      <FILE id="u5Gyce" name="AllPass.h" compile="0" resource="0" file="/Users/ellisd-b/Downloads/VSTPlugins-master/MoorerReverbStereo/Source/AllPass.h"/>
+      <FILE id="aeGj5r" name="Comb.cpp" compile="1" resource="0" file="/Users/ellisd-b/Downloads/VSTPlugins-master/MoorerReverbStereo/Source/Comb.cpp"/>
+      <FILE id="j1pzrw" name="Comb.h" compile="0" resource="0" file="/Users/ellisd-b/Downloads/VSTPlugins-master/MoorerReverbStereo/Source/Comb.h"/>
+      <FILE id="Tyj0Fj" name="DelayLine.cpp" compile="1" resource="0" file="/Users/ellisd-b/Downloads/VSTPlugins-master/MoorerReverbStereo/Source/DelayLine.cpp"/>
+      <FILE id="h3IdBo" name="DelayLine.h" compile="0" resource="0" file="/Users/ellisd-b/Downloads/VSTPlugins-master/MoorerReverbStereo/Source/DelayLine.h"/>
+      <FILE id="M6HLe6" name="ERTapDelayLine.cpp" compile="1" resource="0"
+            file="/Users/ellisd-b/Downloads/VSTPlugins-master/MoorerReverbStereo/Source/ERTapDelayLine.cpp"/>
+      <FILE id="raWIsw" name="ERTapDelayLine.h" compile="0" resource="0"
+            file="/Users/ellisd-b/Downloads/VSTPlugins-master/MoorerReverbStereo/Source/ERTapDelayLine.h"/>
+      <FILE id="Anil8Z" name="LowPass.cpp" compile="1" resource="0" file="/Users/ellisd-b/Downloads/VSTPlugins-master/MoorerReverbStereo/Source/LowPass.cpp"/>
+      <FILE id="ICdKwd" name="LowPass.h" compile="0" resource="0" file="/Users/ellisd-b/Downloads/VSTPlugins-master/MoorerReverbStereo/Source/LowPass.h"/>
+      <FILE id="LhcsnE" name="Moorer.cpp" compile="1" resource="0" file="/Users/ellisd-b/Downloads/VSTPlugins-master/MoorerReverbStereo/Source/Moorer.cpp"/>
+      <FILE id="Iea9Xs" name="Moorer.h" compile="0" resource="0" file="/Users/ellisd-b/Downloads/VSTPlugins-master/MoorerReverbStereo/Source/Moorer.h"/>
+    </GROUP>
+  </MAINGROUP>
+  <EXPORTFORMATS>
+    <XCODE_MAC targetFolder="Builds/MacOSX">
+      <CONFIGURATIONS>
+        <CONFIGURATION isDebug="1" name="Debug"/>
+        <CONFIGURATION isDebug="0" name="Release"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_audio_basics" path="../../../../../../Users/ellisd-b/Documents/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_devices" path="../../../../../../Users/ellisd-b/Documents/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_formats" path="../../../../../../Users/ellisd-b/Documents/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_plugin_client" path="../../../../../../Users/ellisd-b/Documents/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_processors" path="../../../../../../Users/ellisd-b/Documents/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_utils" path="../../../../../../Users/ellisd-b/Documents/JUCE/modules"/>
+        <MODULEPATH id="juce_core" path="../../../../../../Users/ellisd-b/Documents/JUCE/modules"/>
+        <MODULEPATH id="juce_cryptography" path="../../../../../../Users/ellisd-b/Documents/JUCE/modules"/>
+        <MODULEPATH id="juce_data_structures" path="../../../../../../Users/ellisd-b/Documents/JUCE/modules"/>
+        <MODULEPATH id="juce_events" path="../../../../../../Users/ellisd-b/Documents/JUCE/modules"/>
+        <MODULEPATH id="juce_graphics" path="../../../../../../Users/ellisd-b/Documents/JUCE/modules"/>
+        <MODULEPATH id="juce_gui_basics" path="../../../../../../Users/ellisd-b/Documents/JUCE/modules"/>
+        <MODULEPATH id="juce_gui_extra" path="../../../../../../Users/ellisd-b/Documents/JUCE/modules"/>
+        <MODULEPATH id="juce_opengl" path="../../../../../../Users/ellisd-b/Documents/JUCE/modules"/>
+      </MODULEPATHS>
+    </XCODE_MAC>
+  </EXPORTFORMATS>
+  <MODULES>
+    <MODULE id="juce_audio_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_devices" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_formats" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_plugin_client" showAllCode="1" useLocalCopy="0"
+            useGlobalPath="1"/>
+    <MODULE id="juce_audio_processors" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_utils" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_core" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_cryptography" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_data_structures" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_events" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_graphics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_extra" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_opengl" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+  </MODULES>
+  <LIVE_SETTINGS>
+    <OSX/>
+  </LIVE_SETTINGS>
+  <JUCEOPTIONS JUCE_VST3_CAN_REPLACE_VST2="0" JUCE_STRICT_REFCOUNTEDPOINTER="1"/>
+</JUCERPROJECT>
